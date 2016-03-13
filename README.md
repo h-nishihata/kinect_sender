@@ -1,2 +1,2 @@
-waterfall_sender
+kinect_sender
 ================
